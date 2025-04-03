@@ -528,6 +528,75 @@
     font-size: 16px;
     gap: 10px;
 }
+.endsection{
+    margin-top: 150px;
+}
+.subend{
+    background-color:#edeffc ;
+    height: 200px;
+}
+.subend .endh2{
+    margin-left: 50px;
+    font-family: "Lancelot", serif;
+    font-size: 60px;
+    color: #071952;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.subend .btn5{
+    margin-right: 100px;
+    background-color: #071952;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-top: 15px; /* Adjust spacing */
+    transition: 0.3s;
+}
+.subend .btn5:hover{
+    background-color: #1b7261;
+}
+.footerend{
+    background-color: #1b7261;
+    padding-bottom: 20px;
+}
+.footerend .footh3{
+    font-family: "Lancelot", serif;
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+}
+.listfoot{
+    margin: auto;
+    color: white;
+    text-decoration: none;
+}
+.contact1 i {
+    color: white; /* Make icons white */
+    font-size: 20px; /* Adjust icon size if needed */
+}
+
+.contact1 a {
+    color: white; /* Make links white */
+    text-decoration: none; /* Remove underline */
+}
+
+.contact1 a:hover {
+    color: #071952; /* Optional: Change color on hover */
+}
+.endofend {
+    background-color: #071952; /* Background color (adjust as needed) */
+    padding: 10px 0; /* Add some spacing */
+}
+
+.last p {
+    margin: 0;
+    font-size: 14px;
+    color: white;
+}
+
 
 
 
